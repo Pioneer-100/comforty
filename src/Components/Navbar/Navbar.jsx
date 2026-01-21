@@ -75,7 +75,8 @@ const Navbar = () => {
 
 
     {/* navbar_bottom */}
-    <div className='navbar_bottom flex items-center justify-center w-full h-[75px] bg-white'>
+    <div className='navbar_bottom flex items-center justify-center w-full h-[75px] bg-white border-b-[1px]
+    border-[#e1e3e5]'>
       <div className='lg:container flex items-center justify-between'>
 
         <div className="navbar_bottom_left flex items-center gap-8">
